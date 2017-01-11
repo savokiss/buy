@@ -1,0 +1,16 @@
+.main {
+    padding-top: 60px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.grid-item {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    margin-bottom: 20px;
+}
